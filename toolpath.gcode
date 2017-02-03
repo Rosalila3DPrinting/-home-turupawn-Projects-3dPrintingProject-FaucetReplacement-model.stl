@@ -1,5 +1,5 @@
 ;This Gcode has been generated specifically for the LulzBot Mini
-;Basic settings: Layer height: 0.38 Walls: 1 Fill: 80
+;Basic settings: Layer height: 0.38 Walls: 1 Fill: 100
 ;Filament Diameter: 2.85
 ;Nozzle Size: 0.5
 G21                          ; metric values
